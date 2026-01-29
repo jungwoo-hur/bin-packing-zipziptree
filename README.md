@@ -55,7 +55,7 @@ enabling FF/BF and their decreasing variants to scale to large input sizes.
 │   └── next_fit.py        # Next Fit bin packing implementation
 │   └── zipzip_tree.py     # ZipZip Tree (balanced randomized BST) implementation
 ├── data/
-│   └── results.xlsx          # Raw experiment results
+│   └── results.xlsx       # Raw experiment results
 ├── README.md
 └── .gitignore
 
