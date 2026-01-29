@@ -1,5 +1,3 @@
-
-
 def next_fit(items: list[float], assignment: list[int], free_space: list[float]):
 
 	c_b_index = 0
