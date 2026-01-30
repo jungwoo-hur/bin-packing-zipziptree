@@ -35,8 +35,6 @@ enabling FF/BF and their decreasing variants to scale to large input sizes.
 - For **Best Fit**: find the tightest bin that still fits (predecessor/successor-style query).
 - After placing an item: update the bin’s remaining capacity in the tree (delete + reinsert or key update).
 
-*(Exact details depend on your internal representation; adjust the bullet wording if needed.)*
-
 ---
 
 ## Implementation Notes
